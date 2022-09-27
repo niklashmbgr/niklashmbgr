@@ -8,8 +8,7 @@
 🌱 I just started my digital carreer as a Web Developer </br>
 👨‍💻  I am passionate about Web Development & I enjoy learning new things. </br>
 📫 How to reach me: 
-- [![LinkedIn](https://img.shields.io/linkedIn)](https://www.linkedin.com/in/niklas-h-a4672824a/)
-- [![Twitter](https://img.shields.io/twitter/follow/ashleymavericks?style=social)](https://twitter.com/intent/follow?screen_name=ashleymavericks)
+- [[LinkedIn(https://www.linkedin.com/in/niklas-h-a4672824a/)]
 
 
 
