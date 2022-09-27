@@ -8,7 +8,7 @@
 🌱 I just started my digital carreer as a Web Developer </br>
 👨‍💻  I am passionate about Web Development & I enjoy learning new things. </br>
 📫 How to reach me: 
-- [[LinkedIn(https://www.linkedin.com/in/niklas-h-a4672824a/)]
+- [[LinkedIn(https://www.linkedin.com/in/niklas-h-a4672824a/)]]
 
 
 
